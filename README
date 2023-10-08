@@ -1,3 +1,5 @@
+I exclude file ".tmp_vmlinux.btf" and "vmlinux" because they are too big to be uploaded to github.
+
 Linux kernel
 ============
 
